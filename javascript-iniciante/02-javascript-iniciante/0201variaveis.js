@@ -61,14 +61,14 @@ var age = 37;
 
 // Declarar uma variável com sua comida 
 // favorita e não atribuir valor
-var favoriteFood = ;
+var favoriteFood;
 
 // Atribuir valor a sua comida favorita
 favoriteFood = 'churrasco';
 
 // Declarar 5 variáveis diferentes sem valores
-var carro1 = ;
-var carro2 = ;
-var carro3 = ;
-var carro4 = ;
-var carro5 = ;
+var carro1;
+var carro2;
+var carro3;
+var carro4;
+var carro5;
