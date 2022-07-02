@@ -34,3 +34,18 @@ var casa = 'sítio';
 var profissao = 'software engineer';
 console.log(profissao);
 // retorna 'software engineer'.
+
+
+/*Mudar o valor atribuido*/
+// é possível mudar valores atribuidos para 'var' e 'let'
+// para 'const' não é possível
+
+var idade1 = 37;
+idade = 35;
+
+let preco1 = 50;
+preco1 = 45;
+
+const possuiFaculdade1 = true;
+possuiFaculdade1 = false;
+// retorna erro
