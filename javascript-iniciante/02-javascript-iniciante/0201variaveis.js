@@ -49,3 +49,26 @@ preco1 = 45;
 const possuiFaculdade1 = true;
 possuiFaculdade1 = false;
 // retorna erro
+
+
+/*Exercício*/
+
+// Declarar uma variável com seu nome
+var name = 'Luiz Eduardo',
+
+// Declarar uma variável com sua idade
+var age = 37;
+
+// Declarar uma variável com sua comida 
+// favorita e não atribuir valor
+var favoriteFood = ;
+
+// Atribuir valor a sua comida favorita
+favoriteFood = 'churrasco';
+
+// Declarar 5 variáveis diferentes sem valores
+var carro1 = ;
+var carro2 = ;
+var carro3 = ;
+var carro4 = ;
+var carro5 = ;
