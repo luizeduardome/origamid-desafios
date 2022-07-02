@@ -72,3 +72,6 @@ var carro2;
 var carro3;
 var carro4;
 var carro5;
+
+// declarado com apenas um comando
+var carro, rua, casa, faculdade, país;
