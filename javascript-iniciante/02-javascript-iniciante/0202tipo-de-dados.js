@@ -16,3 +16,12 @@ var novoObjeto = {}; //objeto
 console.log(typeof nome); //string
 
 console.log(typeof time); //undefine
+
+/*String*/
+
+// Somar string e concatenar palavras
+
+var primeiroNome = 'Luiz Eduardo';
+var nomeFamilia = 'Menezes';
+var nomeCompleto = primeiroNome + ' ' + nomeFamilia;
+console.log(nomeCompleto);
