@@ -25,3 +25,9 @@ var primeiroNome = 'Luiz Eduardo';
 var nomeFamilia = 'Menezes';
 var nomeCompleto = primeiroNome + ' ' + nomeFamilia;
 console.log(nomeCompleto);
+
+// Somar número com string
+var gol = 1000;
+var frase = 'Romário fez ' + gol + ' gols';
+console.log(frase);
+console.log(typeof frase);
