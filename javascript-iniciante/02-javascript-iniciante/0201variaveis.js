@@ -1,5 +1,8 @@
 /* Utilizando uma variável para cada valor.*/
 
+// é preciso sempre lembrar de declarar a variável
+// caso contrário, ao ser chamada, apresentará um erro.
+
 var nome = 'Luiz Eduardo';
 let idade = 37;
 const possuiFaculdade = true;
