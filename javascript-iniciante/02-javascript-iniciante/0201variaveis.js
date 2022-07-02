@@ -22,3 +22,15 @@ cidade = 'Belo Horizonte';
 
 
 console.log(sobreNome, cidade);
+
+/*Conceito de Hoisting*/
+// O código é executado de cima para baixo da esquerda para a direita
+// Logo; é preciso primeiro declarar a variável, para em seguida chama-la
+
+console.log(casa);
+var casa = 'sítio';
+// retorna undefined
+
+var profissao = 'software engineer';
+console.log(profissao);
+// retorna 'software engineer'.
