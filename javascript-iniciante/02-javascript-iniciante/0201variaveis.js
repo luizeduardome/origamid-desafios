@@ -3,7 +3,7 @@
 // é preciso sempre lembrar de declarar a variável
 // caso contrário, ao ser chamada, apresentará um erro.
 
-var nome = 'Luiz Eduardo';
+const nome = 'Luiz Eduardo';
 let idade = 37;
 const possuiFaculdade = true;
 
@@ -46,7 +46,7 @@ idade = 35;
 let preco1 = 50;
 preco1 = 45;
 
-const possuiFaculdade1 = true;
+let possuiFaculdade1 = true;
 possuiFaculdade1 = false;
 // retorna erro
 
@@ -54,7 +54,7 @@ possuiFaculdade1 = false;
 /*Exercício*/
 
 // Declarar uma variável com seu nome
-var name = 'Luiz Eduardo',
+const name = 'Luiz Eduardo';
 
 // Declarar uma variável com sua idade
 var age = 37;
