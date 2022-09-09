@@ -46,3 +46,16 @@ var quadradoNovo = {
 
 /* Organizar o Código */
 /* Objetos servem para organizar o código em pequenas partes reutilizáveis. */
+
+Math.PI;
+Math.random();
+
+var pi = Math.PI;
+console.log(pi);
+
+/*
+Math é um objeto nativo de
+Javascript. Já percebeu que 
+console é um objeto e log() um
+método?
+*/
