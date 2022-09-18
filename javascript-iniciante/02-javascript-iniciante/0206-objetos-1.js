@@ -59,3 +59,6 @@ Javascript. Já percebeu que
 console é um objeto e log() um
 método?
 */
+
+console.table(pessoa)
+console.log(Math.cos(120))
